@@ -40,7 +40,7 @@ The project demonstrates fundamental image processing concepts and serves as a b
 
 ## Installation
 
-pip install opencv-python numpy
+pip install opencv-python numpy,
 python run cv.py
 
 ---
